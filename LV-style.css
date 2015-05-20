@@ -1,0 +1,39 @@
+
+.div1 ,.div2 ,.div3 ,.div4 ,.div5 {
+
+background-image: url(fondo1.jpg);
+width: 65%;
+border-color: silver;
+border-radius: 46px;
+box-shadow: 50px 0px 90px rgb(0,0,0);
+border-style: outset;
+color: Black ;
+
+
+
+
+}
+
+
+
+
+.sp1 ,.sp2, .sp3 ,.sp4 ,.sp5 {
+
+
+color: black;
+font-size:30px; 
+text-align:center;
+font-family:Cambria;
+
+
+}
+
+
+
+.degradar {
+
+    
+	font-family: Agency FB;
+    font-size: 60px;
+    color: black;
+    
